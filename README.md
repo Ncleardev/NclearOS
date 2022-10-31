@@ -1,5 +1,5 @@
 ![Logo](https://i.imgur.com/889QgpM.png)
-## Cosmos based operating system written in C# with GUI
+## Cosmos based console operating system written in C#
 
 ### Features
 - FAT 12/16/32 File System Support
